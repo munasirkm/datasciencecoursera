@@ -15,4 +15,4 @@ Data for project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2
 
 1. Readme.md </br>
 2. R script - https://github.com/munasirkm/datasciencecoursera/blob/master/run_analysis.R </br>
-3.Codebook.md - 
+3.Codebook.md - https://github.com/munasirkm/datasciencecoursera/blob/master/codebook.md
